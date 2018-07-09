@@ -1,1 +1,3 @@
-CPSC473_HW1
+-------------------------------------------
+Programmer:   Richard Viet Nguyen
+Email:        adidaas@csu.fullerton.edu
